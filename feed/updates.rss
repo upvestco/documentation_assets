@@ -6,6 +6,13 @@
     <description>TODO description</description>
     <pubDate>Sun, 15 Sep 2024 08:00:00 +0000</pubDate>
     <item>
+      <title>v1.35.1 Test test</title>
+      <description>Test description</description>
+      <pubDate>Sun, 17 Sep 2024 10:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1350-release</link>
+      <guid>https://docs.upvest.co/news#version-1350-release</guid>
+    </item>
+    <item>
       <title>v1.35.0 released</title>
       <description>[TOL,BYOL] New transaction type</description>
       <pubDate>Sun, 15 Sep 2024 10:00:00 +0000</pubDate>
