@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>TODO description</description>
-    <pubDate>Sun, 15 Sep 2024 08:00:00 +0000</pubDate>
+    <pubDate>Tue, 17 Sep 2024 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.35.2 Another one</title>
+      <description>Test description</description>
+      <pubDate>Tue, 17 Sep 2024 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1350-release</link>
+      <guid>https://docs.upvest.co/news#version-1350-release-2</guid>
+    </item>
     <item>
       <title>v1.35.1 Test test</title>
       <description>Test description</description>
