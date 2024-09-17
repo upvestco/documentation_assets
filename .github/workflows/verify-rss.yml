@@ -1,0 +1,29 @@
+name: RSS File Verification
+
+on:
+  push:
+    paths:
+      - '**.xml'
+      - '**.rss'
+      - 'scripts/verify_rss.go'
+  pull_request:
+    paths:
+      - '**.xml'
+      - '**.rss'
+      - 'scripts/verify_rss.go'
+  workflow_dispatch:
+
+jobs:
+  verify-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Verify RSS files
+        run: go run scripts/verify_rss.go
