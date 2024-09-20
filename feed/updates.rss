@@ -4,11 +4,11 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>TODO description</description>
-    <pubDate>Tue, 17 Sep 2024 22:00:01 +0000</pubDate>
+    <pubDate>Tue, 17 Sep 2024 22:00:02 +0000</pubDate>
     <item>
       <title>v1.35.7 Virtual IBANs</title>
-      <description>Operation models: TOL, BYOL&lt;br/&gt;Changes: New line works in Slack</description>
-      <pubDate>Tue, 17 Sep 2024 22:00:01 +0000</pubDate>
+      <description>Operation models: TOL, BYOL&lt;br/&gt;Changes: New line works in Slack [upd.]</description>
+      <pubDate>Tue, 17 Sep 2024 22:00:02 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-1350-release</link>
       <guid>https://docs.upvest.co/news#version-1350-release-8</guid>
     </item>
