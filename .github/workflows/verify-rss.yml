@@ -1,11 +1,6 @@
 name: RSS File Verification
 
 on:
-  push:
-    paths:
-      - '**.xml'
-      - '**.rss'
-      - 'scripts/verify_rss.go'
   pull_request:
     paths:
       - '**.xml'
