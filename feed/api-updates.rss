@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Upvest API updates</title>
+    <link>https://docs.upvest.co/news</link>
+    <description>Updates of the API release notes</description>
+    <pubDate>Wed, 4 Sep 2024 12:00:00 +0000</pubDate>
+    <item>
+      <title>v1.35.0 New transaction type</title>
+      <description>Operating models: TOL, BYOL&lt;br/&gt;New transaction type VIRTUAL_CASH_CORRECTION</description>
+      <pubDate>Wed, 4 Sep 2024 12:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1350-release</link>
+      <guid>https://docs.upvest.co/news#version-1350-release</guid>
+    </item>
+  </channel>
+</rss>
