@@ -75,9 +75,9 @@ type Item struct {
 
 func (r *RSS) Validate() error {
 	rules := []func() error{
-		r.validatePubDate,
+		r.validateChannelPubDate,
+		r.validateItemPubDates,
 		r.validateItemGUIDs,
-		r.validateItemDates,
 		r.validatePubDateUpdated,
 	}
 	var errs []error
@@ -89,7 +89,7 @@ func (r *RSS) Validate() error {
 	return errors.Join(errs...)
 }
 
-func (r *RSS) validatePubDate() error {
+func (r *RSS) validateChannelPubDate() error {
 	err := validateRSSDate(r.Channel.PubDate)
 	if err != nil {
 		return fmt.Errorf("channel pub date: %v", err)
@@ -97,7 +97,7 @@ func (r *RSS) validatePubDate() error {
 	return nil
 }
 
-func (r *RSS) validateItemDates() error {
+func (r *RSS) validateItemPubDates() error {
 	for _, item := range r.Channel.Items {
 		err := validateRSSDate(item.PubDate)
 		if err != nil {
@@ -107,6 +107,7 @@ func (r *RSS) validateItemDates() error {
 	return nil
 }
 
+// validateItemGUIDs checks for duplicate GUIDs in the RSS feed.
 func (r *RSS) validateItemGUIDs() error {
 	guids := make(map[string]bool)
 	for _, item := range r.Channel.Items {

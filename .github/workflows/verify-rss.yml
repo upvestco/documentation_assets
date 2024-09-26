@@ -6,7 +6,6 @@ on:
       - '**.xml'
       - '**.rss'
       - 'scripts/verify_rss.go'
-  workflow_dispatch:
 
 jobs:
   verify-rss:
