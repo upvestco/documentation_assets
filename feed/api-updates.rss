@@ -4,7 +4,7 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 26 Sep 2024 14:00:00 +0000</pubDate>
+    <pubDate>Fri, 27 Sep 2024 10:48:00 +0000</pubDate>
     <item>
       <title>v1.36.0 Driving licence as a valid KYC document [TEST]</title>
       <description>Operating models: TOL&lt;br/&gt;Added a new document_type for the KYC (Know Your Customer) check.</description>
