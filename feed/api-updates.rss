@@ -4,20 +4,13 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
+    <pubDate>Tue, 01 Oct 2024 13:00:00 +0000</pubDate>
     <item>
-      <title>v1.36.0 Driving licence as a valid KYC document</title>
-      <description>Operating models: TOL&lt;br/&gt;Added a new document_type for the KYC (Know Your Customer) check.</description>
-      <pubDate>Thu, 26 Sep 2024 13:00:00 +0000</pubDate>
-      <link>https://docs.upvest.co/news#version-1360-release</link>
-      <guid>https://docs.upvest.co/news#version-1360-release</guid>
-    </item>
-    <item>
-      <title>v1.35.0 New transaction type</title>
-      <description>Operating models: TOL, BYOL&lt;br/&gt;New transaction type VIRTUAL_CASH_CORRECTION</description>
-      <pubDate>Wed, 04 Sep 2024 12:00:00 +0000</pubDate>
-      <link>https://docs.upvest.co/news#version-1350-release</link>
-      <guid>https://docs.upvest.co/news#version-1350-release</guid>
+      <title>v1.37.0 Corporate action notifications</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 01 Oct 2024 13:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1370-release</link>
+      <guid>https://docs.upvest.co/news#version-1370-release</guid>
     </item>
   </channel>
 </rss>
