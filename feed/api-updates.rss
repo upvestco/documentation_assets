@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 25 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate>
+    <item>
+      <title>v1.40.0 Valid country codes</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Mon, 04 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1400-release</link>
+      <guid>https://docs.upvest.co/news#version-1400-release</guid>
+    </item>
      <item>
       <title>v1.39.0 Second priority user identifier</title>
       <description>Operation models: TOL, BYOL</description>
