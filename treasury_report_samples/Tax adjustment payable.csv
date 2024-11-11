@@ -52,9 +52,6 @@ tax_transaction_id;settlement_amount;currency;transaction_date
 {tax_transaction_id};2.62;EUR;2024-11-01T00:00:00Z
 {tax_transaction_id};38.46;EUR;2024-11-01T00:00:00Z
 {tax_transaction_id};0.04;EUR;2024-11-01T00:00:00Z
-{tax_transaction_id};0.04;EUR;2024-11-01T00:00:00Z
-{tax_transaction_id};0.04;EUR;2024-11-01T00:00:00Z
-{tax_transaction_id};0.04;EUR;2024-11-01T00:00:00Z
 {tax_transaction_id};1.31;EUR;2024-11-01T00:00:00Z
 {tax_transaction_id};25.72;EUR;2024-11-01T00:00:00Z
 {tax_transaction_id};24.18;EUR;2024-11-01T00:00:00Z
