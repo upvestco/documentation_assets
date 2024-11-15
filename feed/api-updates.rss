@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate>
+    <pubDate>Fri, 15 Nov 2024 12:00:00 +0000</pubDate>
+    <item>
+      <title>v1.41.0 Branches</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Fri, 15 Nov 2024 12:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1410-release</link>
+      <guid>https://docs.upvest.co/news#version-1410-release</guid>
+    </item>
     <item>
       <title>v1.40.0 Valid country codes</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
