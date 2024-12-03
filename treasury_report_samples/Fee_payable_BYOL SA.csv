@@ -1,4 +1,4 @@
-fee_collection_id,,type,settlement_amount,currency,transaction_date
+fee_collection_id,type,settlement_amount,currency,transaction_date
 fee_collection_id,,0.53,EUR,2024-10-30T00:00:00Z
 fee_collection_id,,36.15,EUR,2024-10-30T00:00:00Z
 fee_collection_id,,21.15,EUR,2024-10-30T00:00:00Z
