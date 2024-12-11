@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 15 Nov 2024 12:00:00 +0000</pubDate>
+    <pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
+    <item>
+      <title>New guide for fees collection</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#new-guide-for-fees-collection-via-the-investment-api</link>
+      <guid>https://docs.upvest.co/news#new-guide-for-fees-collection-via-the-investment-api</guid>
+    </item>
     <item>
       <title>v1.41.0 Branches</title>
       <description>Operation models: TOL, BYOL</description>
