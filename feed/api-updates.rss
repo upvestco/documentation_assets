@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Mon, 16 Dec 2024 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 17 Dec 2024 10:00:00 +0000</pubDate>
+    <item>
+      <title>v1.43.0 Corporate actions notification: New types</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 17 Dec 2024 10:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1430-release</link>
+      <guid>https://docs.upvest.co/news#version-1430-release</guid>
+    </item>
     <item>
       <title>v1.42.0 Reference account group in account opening reports</title>
       <description>Operation models: TOL, BYOL</description>
