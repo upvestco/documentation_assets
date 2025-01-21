@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 09 Jan 2025 17:00:00 +0000</pubDate>
+    <pubDate>Tue, 21 Jan 2025 14:00:00 +0000</pubDate>
+    <item>
+      <title>v1.45.0 Corporate actions notification: New types</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 21 Jan 2025 14:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1450-release</link>
+      <guid>https://docs.upvest.co/news#version-1450-release</guid>
+    </item>
     <item>
       <title>Best practice guide for integrating webhooks</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
