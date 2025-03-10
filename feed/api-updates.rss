@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 24 Jan 2025 15:00:00 +0000</pubDate>
+    <pubDate>Mon, 17 Feb 2025 13:00:00 +0000</pubDate>
+    <item>
+      <title>v1.48.0 New transaction type</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Mon, 17 Feb 2025 13:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1480-release</link>
+      <guid>https://docs.upvest.co/news#version-1480-release</guid>
+    </item>
     <item>
       <title>v1.46.0 Multi-currency preparation</title>
       <description>Operation models: TOL, BYOL</description>
