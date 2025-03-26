@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 18 Feb 2025 11:00:00 +0000</pubDate>
+    <pubDate>Tue, 25 Mar 2025 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.50.0 New KYC method ENUM</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 25 Mar 2025 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1500-release</link>
+      <guid>https://docs.upvest.co/news#version-1500-release</guid>
+    </item>
     <item>
       <title>v1.49.0 New field in the treasury report body</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
