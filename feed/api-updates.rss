@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 02 Apr 2025 17:00:00 +0000</pubDate>
+    <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+    <item>
+      <title>New guides for corporate actions</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#corporate-actions-guides</link>
+      <guid>https://docs.upvest.co/news#corporate-actions-guides</guid>
+    </item>
     <item>
       <title>v1.51.0 Notifications for additional corporate action types</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
