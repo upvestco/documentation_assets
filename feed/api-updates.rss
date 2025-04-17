@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+    <pubDate>Tue, 14 Apr 2025 14:00:00 +0000</pubDate>
+     <item>
+      <title>v1.52.0 GBP currency supported in virtual cash</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1520-release</link>
+      <guid>https://docs.upvest.co/news#version-1520-version</guid>
+    </item>
     <item>
       <title>New guides for corporate actions</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
