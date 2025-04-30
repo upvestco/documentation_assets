@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 24 Apr 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 30 Apr 2025 15:00:00 +0000</pubDate>
+    <item>
+      <title>v1.55.0 New CA types for notifications</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Wed, 30 Apr 2025 15:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1550-release</link>
+      <guid>https://docs.upvest.co/news#version-1550-release</guid>
+    </item>
     <item>
       <title>v1.54.0 New CA type for notifications and `additional_text` field</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
