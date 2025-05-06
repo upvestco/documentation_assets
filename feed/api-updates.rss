@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 30 Apr 2025 15:00:00 +0000</pubDate>
+    <pubDate>Tue, 06 May 2025 14:00:00 +0000</pubDate>
+    <item>
+      <title>v1.56.0 Transactions types added to the docs</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 06 May 2025 14:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1560-release</link>
+      <guid>https://docs.upvest.co/news#version-1560-release</guid>
+    </item>
     <item>
       <title>v1.55.0 New CA types for notifications</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
