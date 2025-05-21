@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 06 May 2025 14:00:00 +0000</pubDate>
+    <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    <item>
+      <title>v1.56.1 Branches feature for BYOL SA</title>
+      <description>Operation models: BYOL</description>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1561-release</link>
+      <guid>https://docs.upvest.co/news#version-1561-release</guid>
+    </item>
     <item>
       <title>v1.56.0 Transactions types added to the docs</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
