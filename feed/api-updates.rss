@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    <pubDate>Wed, 28 May 2025 10:00:00 +0000</pubDate>
+    <item>
+      <title>Support of new CA types in the notifications</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Wed, 28 May 2025 10:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#support-of-new-corporate-action-types-in-the-notifications</link>
+      <guid>https://docs.upvest.co/news#support-of-new-corporate-action-types-in-the-notifications</guid>
+    </item>
     <item>
       <title>v1.56.1 Branches feature for BYOL SA</title>
       <description>Operation models: BYOL</description>
