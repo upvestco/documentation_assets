@@ -4,7 +4,28 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 28 May 2025 10:00:00 +0000</pubDate>
+    <pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.59.0 New KYC document type and method ENUM</title>
+      <description>Operation models: TOL</description>
+      <pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1590-release</link>
+      <guid>https://docs.upvest.co/news#version-1590-release</guid>
+    </item>
+    <item>
+      <title>v1.58.0 New list cash balances endpoint across all supported currencies</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Wed, 04 Jun 2025 13:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1580-release</link>
+      <guid>https://docs.upvest.co/news#version-1580-release</guid>
+    </item>
+    <item>
+      <title>v1.57.0 New cash balance endpoint for each supported currency</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 03 Jun 2025 08:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1570-release</link>
+      <guid>https://docs.upvest.co/news#version-1570-release</guid>
+    </item>
     <item>
       <title>Support of new CA types in the notifications</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
