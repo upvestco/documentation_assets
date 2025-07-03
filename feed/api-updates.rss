@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 27 Jun 2025 09:00:00 +0000</pubDate>
+    <pubDate>Thu, 3 Jul 2025 09:00:00 +0000</pubDate>
+    <item>
+      <title>v1.62.0 Change return code of virtual balance increase endpoint</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Thu, 3 Jul 2025 09:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1620-release</link>
+      <guid>https://docs.upvest.co/news#version-1620-release</guid>
+    </item>
     <item>
       <title>v1.61.0 New account group type</title>
       <description>Operation models: TOL</description>
