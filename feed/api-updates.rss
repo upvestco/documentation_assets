@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 18 Jul 2025 09:00:00 +0000</pubDate>
+    <pubDate>Tue, 29 Jul 2025 13:15:37 +0000</pubDate>
+    <item>
+      <title>Webhook documentation update - Stale subscription removal policy</title>
+      <description>Added clarification to webhook best practices regarding automatic removal of buggy or stale webhook subscriptions to improve system reliability and performance.</description>
+      <pubDate>Tue, 29 Jul 2025 13:15:37 +0000</pubDate>
+      <link>https://docs.upvest.co/news#webhook-subscription-cleanup-policy</link>
+      <guid>https://docs.upvest.co/news#webhook-subscription-cleanup-policy</guid>
+    </item>
     <item>
       <title>v1.63.0 Add GBP currency support to orders endpoint</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
