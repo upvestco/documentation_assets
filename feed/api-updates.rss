@@ -4,13 +4,41 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 29 Jul 2025 09:00:00 +0000</pubDate>
+    <pubDate>Thu, 31 Jul 2025 09:00:00 +0000</pubDate>
+    <item>
+      <title>v1.67.0 New purpose_code fields</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Thu, 31 Jul 2025 09:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1670-release</link>
+      <guid>https://docs.upvest.co/news#version-1670-release</guid>
+    </item>
+    <item>
+      <title>v1.66.0 Add GBP currency support for account liquidations</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1660-release</link>
+      <guid>https://docs.upvest.co/news#version-1660-release</guid>
+    </item>
     <item>
       <title>Webhook Documentation Update - Stale Subscription Removal Policy</title>
       <description>Added a clarification to webhook best practices regarding the automatic removal of buggy or stale webhook subscriptions to improve system reliability and performance.</description>
       <pubDate>Tue, 29 Jul 2025 09:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news</link>
       <guid>https://docs.upvest.co/news</guid>
+    </item>
+    <item>
+      <title>v1.65.0 Deprecated credit_debit_factor field in corporate action notifications</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Thu, 24 Jul 2025 09:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1650-release</link>
+      <guid>https://docs.upvest.co/news#version-1650-release</guid>
+    </item>
+    <item>
+      <title>v1.64.0 New TOPUP webhook event type</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Mon, 21 Jul 2025 09:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1640-release</link>
+      <guid>https://docs.upvest.co/news#version-1640-release</guid>
     </item>
     <item>
       <title>v1.63.0 Add GBP currency support to orders endpoint</title>
