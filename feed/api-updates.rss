@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 08 Aug 2025 09:00:00 +0000</pubDate>
+    <pubDate>Mon, 18 Aug 2025 09:00:00 +0000</pubDate>
+    <item>
+      <title>v1.69.0 Enhanced visibility of transaction fees</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1690-release</link>
+      <guid>https://docs.upvest.co/news#version-1690-release</guid>
+    </item>
     <item>
       <title>v1.68.0 Updates to savings plan execution status list</title>
       <description>Operation models: TOL, BYOL</description>
