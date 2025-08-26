@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 19 Aug 2025 09:00:00 +0000</pubDate>
+    <pubDate>Tue, 26 Aug 2025 09:00:00 +0000</pubDate>
+    <item>
+      <title>v1.71.0 New cash and security transaction types.</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 26 Aug 2025 09:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1710-release</link>
+      <guid>https://docs.upvest.co/news#version-1710-release</guid>
+    </item>
     <item>
       <title>v1.70.0 Added support for clients to specify inducements in ex-ante cost disclosures</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
