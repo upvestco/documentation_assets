@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Mon, 08 Sep 2025 09:00:00 +0000</pubDate>
+    <pubDate>Tue, 23 Sep 2025 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.72.2 Introduces a new ISIN to limit and stop order simulation flows.</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Tue, 23 Sep 2025 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1722-release</link>
+      <guid>https://docs.upvest.co/news#version-1722-release</guid>
+    </item>
     <item>
       <title>v1.72.1 updates the reference list of supported tax identification numbers (TINs).</title>
       <description>Operation models: TOL, BYOL</description>
