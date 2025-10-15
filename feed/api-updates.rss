@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Mon, 13 Oct 2025 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 15 Oct 2025 11:00:00 +0000</pubDate>
+        <item>
+      <title>v1.75 includes the release of the tax wrapper functionality with support for Individual Savings Accounts (ISAs) and Plan d'Epargne en Actions (PEA).</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 15 Oct 2025 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1750-release</link>
+      <guid>https://docs.upvest.co/news#version-1750-release</guid>
+    </item>
     <item>
       <title>v1.74 includes instructions for the new Tax Collection process for tax payments. This includes a specific section for the collection of preliminary lump-sum taxes (Vorabpauschale) required under German Tax Law.</title>
       <description>Operation models: TOL, BYOL</description>
