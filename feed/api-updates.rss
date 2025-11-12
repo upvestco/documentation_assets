@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 07 Nov 2025 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 12 Nov 2025 11:00:00 +0000</pubDate>
+      <item>
+      <title>v1.78  introduces our securities transfer functionality giving clients the ability to facilitate the transfer of securities across custodians, in both directions.</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Wed, 08 Nov 2025 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1780-release</link>
+      <guid>https://docs.upvest.co/news#version-1780-release</guid>
+    </item>
       <item>
       <title>v1.77 adds support for Great British Pounds (GBP) in the currency field of our Fees endpoint.</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
