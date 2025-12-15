@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Mon, 15 Dec 2025 11:00:00 +0000</pubDate>
       <item>
-      <title>v1.78 introduces our account transfer functionality giving clients the ability to facilitate the transfer of multiple ISINs from a single account across custodians.</title>
-      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <title>v1.79 introduces our account transfer functionality giving clients the ability to facilitate the transfer of multiple ISINs from a single account across custodians.</title>
+      <description>Operation models: TOL, BYOL</description>
       <pubDate>Mon, 15 Dec 2025 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-1790-release</link>
       <guid>https://docs.upvest.co/news#version-1790-release</guid>
