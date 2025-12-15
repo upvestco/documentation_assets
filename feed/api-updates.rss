@@ -4,11 +4,11 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 11 Dec 2025 11:00:00 +0000</pubDate>
+    <pubDate>Mon, 15 Dec 2025 11:00:00 +0000</pubDate>
       <item>
       <title>v1.78 introduces our account transfer functionality giving clients the ability to facilitate the transfer of multiple ISINs from a single account across custodians.</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
-      <pubDate>Thu, 11 Dec 2025 11:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Dec 2025 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-1790-release</link>
       <guid>https://docs.upvest.co/news#version-1790-release</guid>
     </item>
