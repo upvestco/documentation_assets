@@ -1,0 +1,4 @@
+transaction_fee_execution_id,order_id,order_execution_id,settlement_amount,currency,transaction_date
+475000a6-a0cc-4bf7-8042-7a2beca0251f,d33c2e7c-8a28-4bec-9af7-b5ecf3936e1e,11876b69-fd15-4cbe-bd92-d6fd6bb1b4cf,0.50,EUR,2025-10-20T00:00:00Z
+19890a4b-1d49-469b-a48b-2bb2b59af71b,0e9c555e-3a2c-4668-b91b-7d84c02b7847,f4605ec6-8840-4d99-9e76-2c0194e277f1,1.00,EUR,2025-10-20T00:00:00Z
+8425aa06-0d81-4e3a-893b-f5c73eac75e7,0ad61f37-0d01-4632-96e8-bda3f7a8264f,78ead272-8d62-4b70-b92d-6084573eb257,1.00,EUR,2025-10-20T00:00:00Z
