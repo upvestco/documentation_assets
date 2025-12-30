@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 16 Dec 2025 11:00:00 +0000</pubDate>
+    <pubDate>Thu, 18 Dec 2025 11:00:00 +0000</pubDate>
+      <item>
+      <title>v1.81  adds a new enum, `TRANSACTION_FEE` to the `type` parameter in the Treasury reports events webhook.</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1810-release</link>
+      <guid>https://docs.upvest.co/news#version-1810-release</guid>
+    </item>
       <item>
       <title>v1.80 adds enhanced dynamic prices for several ISINs in the Sandbox environment.</title>
       <description>Operation models: TOL, BYOL</description>
