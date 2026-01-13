@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 30 Dec 2025 11:00:00 +0000</pubDate>
+    <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
+      <item>
+      <title>v1.83 removes the `Deprecated` flag from the `GET /account_groups/{account_group_id}/payments/cash_balances` endpoint.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1830-release</link>
+      <guid>https://docs.upvest.co/news#version-1830-release</guid>
+    </item>
       <item>
       <title>v1.82 updates the Vorabpauschale tax collection workflow and adds a new enum for the `TAX_PREPAYMENT_DE_CANCELLATION` report to the GET `/user/{user_id}/reports` and the GET `reports/{report_id}]` endpoints.</title>
       <description>Operation models: TOL, BYOL</description>
