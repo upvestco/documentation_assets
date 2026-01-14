@@ -4,11 +4,11 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 14 Jan 2026 11:00:00 +0000</pubDate>
       <item>
       <title>v1.83 removes the `Deprecated` flag from the `GET /account_groups/{account_group_id}/payments/cash_balances` endpoint.</title>
       <description>Operation models: TOL, BYOL</description>
-      <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-1830-release</link>
       <guid>https://docs.upvest.co/news#version-1830-release</guid>
     </item>
