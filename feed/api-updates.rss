@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 14 Jan 2026 11:00:00 +0000</pubDate>
+    <pubDate>Mon, 2 Feb 2026 11:00:00 +0000</pubDate>
+      <item>
+      <title>v1.84 updates the Fee collection events webhook to include additional information related to sell to cover orders used to cover end user's fees.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Mon, 2 Feb 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1840-release</link>
+      <guid>https://docs.upvest.co/news#version-1840-release</guid>
+    </item>
       <item>
       <title>v1.83 removes the `Deprecated` flag from the `GET /account_groups/{account_group_id}/payments/cash_balances` endpoint.</title>
       <description>Operation models: TOL, BYOL</description>
