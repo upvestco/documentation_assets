@@ -4,7 +4,28 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Mon, 02 Feb 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 11 Mar 2026 11:00:00 +0000</pubDate>
+      <item>
+      <title>v1.88 updates the Cash transactions webhook to include a tax_details section that displays tax information related to transactions with a non-zero tax amount.</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Wed, 11 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1880-release</link>
+      <guid>https://docs.upvest.co/news#version-1880-release</guid>
+    </item>
+      <item>
+      <title>v1.87 adds support for ex-ante reports for orders in savings plans.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1870-release</link>
+      <guid>https://docs.upvest.co/news#version-1870-release</guid>
+    </item>
+      <item>
+      <title>v1.86 adds the FRENCH_IFU report type.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Fri, 13 Feb 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1860-release</link>
+      <guid>https://docs.upvest.co/news#version-1860-release</guid>
+    </item>
       <item>
       <title>v1.84 updates the Fee collection events webhook to include additional information related to sell to cover orders used to cover end user's fees.</title>
       <description>Operation models: TOL, BYOL</description>
