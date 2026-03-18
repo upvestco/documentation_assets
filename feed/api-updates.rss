@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 11 Mar 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.89.0 adds the ability to manage transfers for Individual Savings Accounts (ISA) for end users in the United Kingdom.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1890-release</link>
+      <guid>https://docs.upvest.co/news#version-1890-release</guid>
+    </item>
       <item>
       <title>v1.88 updates the Cash transactions webhook to include a tax_details section that displays tax information related to transactions with a non-zero tax amount.</title>
       <description>Operation models: TOL, BYOL, OMNIBUS</description>
