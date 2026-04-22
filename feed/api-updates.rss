@@ -28,7 +28,7 @@
     </item>
     <item>
       <title>v1.95 Clients can exclude specific webhooks when their subscription is set to `All` by setting the `exclude_type` field.</title>
-      <description>Operation models: TOL, BYOL</description>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
       <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-1950-release</link>
       <guid>https://docs.upvest.co/news#version-1950-release</guid>
