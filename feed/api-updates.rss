@@ -20,7 +20,7 @@
       <guid>https://docs.upvest.co/news#version-1980-release</guid>
     </item>
     <item>
-      <title>v1.96 Clients can see additional details of the fee collection when using the GET /fees/collections endpoint and the Fee collection events webhook.</title>
+      <title>v1.96 adds additional details of the fee collection when using the GET /fees/collections endpoint and the Fee collection events webhook.</title>
       <description>Operation models: TOL, BYOL</description>
       <pubDate>Wed, 15 Apr 2026 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-1960-release</link>
