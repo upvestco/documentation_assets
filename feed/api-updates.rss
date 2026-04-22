@@ -4,7 +4,77 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 22 Apr 2026 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.99 provides support for transaction fee models. Clients can create both simple flat fees and sophisticated tiered fee structures.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 22 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1990-release</link>
+      <guid>https://docs.upvest.co/news#version-1990-release</guid>
+    </item>
+    <item>
+      <title>v1.98 adds the DELETE /portfolios/configurations/{account_id} endpoint to completely remove a portfolio configuration.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Mon, 20 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1980-release</link>
+      <guid>https://docs.upvest.co/news#version-1980-release</guid>
+    </item>
+    <item>
+      <title>v1.96 adds additional details of the fee collection when using the GET /fees/collections endpoint and the Fee collection events webhook.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 15 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1960-release</link>
+      <guid>https://docs.upvest.co/news#version-1960-release</guid>
+    </item>
+    <item>
+      <title>v1.95 adds support for excluding specific webhooks when their subscription is set to `All` by setting the `exclude_type` field.</title>
+      <description>Operation models: TOL, BYOL, OMNIBUS</description>
+      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1950-release</link>
+      <guid>https://docs.upvest.co/news#version-1950-release</guid>
+    </item>
+    <item>
+      <title>v1.94 adds support for the business self-assessment check as part of the POST /businesses/{business_id}/checks endpoint.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1940-release</link>
+      <guid>https://docs.upvest.co/news#version-1940-release</guid>
+    </item>
+    <item>
+      <title>v1.93 adds support for including either a user ID or business ID when placing an order with the POST /orders endpoint.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Tue, 07 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1930-release</link>
+      <guid>https://docs.upvest.co/news#version-1930-release</guid>
+    </item>
+    <item>
+      <title>v1.92 deprecates a number of report types from the User report events webhook.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Thu, 02 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1920-release</link>
+      <guid>https://docs.upvest.co/news#version-1920-release</guid>
+    </item>
+    <item>
+      <title>v1.91 introduces support for creating business accounts via the Investment API.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 01 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1910-release</link>
+      <guid>https://docs.upvest.co/news#version-1910-release</guid>
+    </item>
+    <item>
+      <title>v1.90 adds support for optional Terms and Conditions and Data Privacy Agreements fields for BYOL-SA clients when adding users and businesses.</title>
+      <description>Operation models: BYOL</description>
+      <pubDate>Tue, 24 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1900-release</link>
+      <guid>https://docs.upvest.co/news#version-1900-release</guid>
+    </item>
+    <item>
+      <title>v1.89.1 adds CHILD and GUARDIAN user types to the POST /account_groups endpoint.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Thu, 19 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1891-release</link>
+      <guid>https://docs.upvest.co/news#version-1891-release</guid>
+    </item>
     <item>
       <title>v1.89.0 adds the ability to manage transfers for Individual Savings Accounts (ISA) for end users in the United Kingdom.</title>
       <description>Operation models: TOL, BYOL</description>
