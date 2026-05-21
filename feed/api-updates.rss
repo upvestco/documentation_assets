@@ -4,7 +4,49 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 22 Apr 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 20 May 2026 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.104.0 introduces a new `ID_COLLECTION` enum for the KYC `method` parameter.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 20 May 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11040-release</link>
+      <guid>https://docs.upvest.co/news#version-11040-release</guid>
+    </item>
+    <item>
+      <title>v1.103.0 adds US Dollars (`USD`) to the list of available currencies.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Fri, 15 May 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11030-release</link>
+      <guid>https://docs.upvest.co/news#version-11030-release</guid>
+    </item>
+    <item>
+      <title>v1.102.0 adds endpoints and webhooks for account transfers and securities transfers.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11020-release</link>
+      <guid>https://docs.upvest.co/news#version-11020-release</guid>
+    </item>
+    <item>
+      <title>v1.101.0 adds support for ex-ante reports for business entities.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Thu, 30 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11010-release</link>
+      <guid>https://docs.upvest.co/news#version-11010-release</guid>
+    </item>
+    <item>
+      <title>v1.100.0 adds `fee_collection_id` to account liquidation endpoints and webhooks.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Wed, 29 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11000-release</link>
+      <guid>https://docs.upvest.co/news#version-11000-release</guid>
+    </item>
+    <item>
+      <title>v1.99.1 extends the securities transfers API with `order_date` and `delay_reason` fields.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Tue, 28 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1991-release</link>
+      <guid>https://docs.upvest.co/news#version-1991-release</guid>
+    </item>
     <item>
       <title>v1.99 provides support for transaction fee models. Clients can create both simple flat fees and sophisticated tiered fee structures.</title>
       <description>Operation models: TOL, BYOL</description>
