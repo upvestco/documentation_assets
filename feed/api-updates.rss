@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 20 May 2026 11:00:00 +0000</pubDate>
+    <pubDate>Fri, 22 May 2026 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.105.0 adds `ANNUAL_INCOME_STATEMENT` to the available report type for the Reports endpoints and webhooks.</title>
+      <description>Operation models: TOL, BYOL</description>
+      <pubDate>Fri, 22 May 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11050-release</link>
+      <guid>https://docs.upvest.co/news#version-11050-release</guid>
+    </item>
     <item>
       <title>v1.104.0 introduces a new `ID_COLLECTION` enum for the KYC `method` parameter.</title>
       <description>Operation models: TOL, BYOL</description>
