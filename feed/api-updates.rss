@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 27 May 2026 11:00:00 +0000</pubDate>
+    <pubDate>Thurs, 28 May 2026 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.107.0 Version 1.107.0 enables email address collection during user onboarding for Bring Your Own Licence (BYOL) - Single Accounts clients.</title>
+      <description>Operation models: BYOL</description>
+      <pubDate>Thurs, 28 May 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11070-release</link>
+      <guid>https://docs.upvest.co/news#version-11070-release</guid>
+    </item>
     <item>
       <title>v1.106.0 adds two new enums, GUARDIAN and CHILD, to the users[].type field for account endpoints and webhooks.</title>
       <description>Operation models: TOL, BYOL</description>
