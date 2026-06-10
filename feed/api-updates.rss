@@ -4,9 +4,16 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 28 May 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 10 Jun 2026 11:00:00 +0000</pubDate>
     <item>
-      <title>v1.107.0 Version 1.107.0 enables email address collection during user onboarding for Bring Your Own Licence (BYOL) - Single Accounts clients.</title>
+      <title>v1.108.0 adds the `ISSUED` status for top-ups and credit fundings.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Wed, 10 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11080-release</link>
+      <guid>https://docs.upvest.co/news#version-11080-release</guid>
+    </item>
+    <item>
+      <title>v1.107.0 enables email address collection during user onboarding for Bring Your Own Licence (BYOL) - Single Accounts clients.</title>
       <description>Operation models: BYOL</description>
       <pubDate>Thu, 28 May 2026 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-11070-release</link>
