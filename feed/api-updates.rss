@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 10 Jun 2026 11:00:00 +0000</pubDate>
+    <pubDate>Thu, 11 Jun 2026 11:00:00 +0000</pubDate>
+    <item>
+      <title>v1.109.0 adds the `CANCELLED` status for virtual cash increases.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Thu, 11 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11090-release</link>
+      <guid>https://docs.upvest.co/news#version-11090-release</guid>
+    </item>
     <item>
       <title>v1.108.0 adds the `ISSUED` status for top-ups and credit fundings.</title>
       <description>Operation models: TOL,BYOL</description>
