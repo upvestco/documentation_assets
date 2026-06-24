@@ -4,7 +4,35 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 11 Jun 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 24 Jun 2026 11:00:00 +0000</pubDate>
+      <item>
+      <title>v1.113.0 adds `available_for_instruction` to the Positions API and related webhooks.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Wed, 24 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11130-release</link>
+      <guid>https://docs.upvest.co/news#version-11130-release</guid>
+    </item>
+      <item>
+      <title>v1.112.0 adds `TAX_CONSOLIDATED_CERTIFICATE_UK` to the available report types.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Tue, 23 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11120-release</link>
+      <guid>https://docs.upvest.co/news#version-11120-release</guid>
+    </item>
+      <item>
+      <title>v1.111.0 changes the response for `POST /portfolios/configurations` from `400 Bad Request` to `422 Unprocessable Entity` when the account is not yet active.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Sat, 13 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11110-release</link>
+      <guid>https://docs.upvest.co/news#version-11110-release</guid>
+    </item>
+      <item>
+      <title>v1.110.0 removes the `ISSUED` status for top-ups and credit fundings.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Fri, 12 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11100-release</link>
+      <guid>https://docs.upvest.co/news#version-11100-release</guid>
+    </item>
     <item>
       <title>v1.109.0 adds the `CANCELLED` status for virtual cash increases.</title>
       <description>Operation models: TOL,BYOL</description>
