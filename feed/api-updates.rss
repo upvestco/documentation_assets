@@ -4,7 +4,28 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 24 Jun 2026 11:00:00 +0000</pubDate>
+    <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
+      <item>
+      <title>v 1.116.0 adds `FEE_COLLECTION` as a new value in the `/reports` endpoints and related webhook events.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11160-release</link>
+      <guid>https://docs.upvest.co/news#version-11160-release</guid>
+    </item>
+      <item>
+      <title>v 1.115.0 adds `USD` as a valid value for endpoints that accept or return `currency` values.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Mon, 29 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11150-release</link>
+      <guid>https://docs.upvest.co/news#version-11150-release</guid>
+    </item>
+      <item>
+      <title>v1.114.0 adds the `CLIENT_OPERATIONS` enum value to indicate orders placed by a client's Operations team on behalf of end users.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Thu, 25 Jun 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11140-release</link>
+      <guid>https://docs.upvest.co/news#version-11140-release</guid>
+    </item>
       <item>
       <title>v1.113.0 adds `available_for_instruction` to the Positions API and related webhooks.</title>
       <description>Operation models: TOL,BYOL</description>
