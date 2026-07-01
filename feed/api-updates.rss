@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
+      <item>
+      <title>v1.117.0 adds `cancellation_reason` and `cancellation_details` to savings plan execution responses.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11170-release</link>
+      <guid>https://docs.upvest.co/news#version-11170-release</guid>
+    </item>
       <item>
       <title>v1.116.0 adds `FEE_COLLECTION` as a new value in the `/reports` endpoints and related webhook events.</title>
       <description>Operation models: TOL,BYOL</description>
