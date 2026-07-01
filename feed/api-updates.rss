@@ -4,11 +4,11 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 01 Jul 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
       <item>
       <title>v1.117.0 adds `cancellation_reason` and `cancellation_details` to savings plan execution responses.</title>
       <description>Operation models: TOL,BYOL</description>
-      <pubDate>Tue, 01 Jul 2026 11:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-11170-release</link>
       <guid>https://docs.upvest.co/news#version-11170-release</guid>
     </item>
