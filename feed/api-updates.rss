@@ -21,7 +21,7 @@
     </item>
       <item>
       <title>v1.127.0 adds the `UNSPECIFIED` enum value to the `rounding_indicator` field within corporate action movement details.</title>
-      <description>Operation models: TOL,BYOL,OMNIBUS </description>
+      <description>Operation models: TOL,BYOL,OMNIBUS</description>
       <pubDate>Fri, 17 Jul 2026 11:00:00 +0000</pubDate>
       <link>https://docs.upvest.co/news#version-11270-release</link>
       <guid>https://docs.upvest.co/news#version-11270-release</guid>
