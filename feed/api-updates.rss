@@ -4,7 +4,84 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 22 Jul 2026 11:00:00 +0000</pubDate>9
+      <item>
+      <title>v1.129.0 adds the `corporate_action_reference` and `buyer_protection_deadline` fields to the Corporate action events webhook.</title>
+      <description>Operation models: TOL,BYOL </description>
+      <pubDate>Wed, 22 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11280-release</link>
+      <guid>https://docs.upvest.co/news#version-11280-release</guid>
+    </item>
+      <item>
+      <title>v1.128.0 adds `CASH_BALANCE_TRANSFER` as a new value to the `type` enum within the `references` array of cash transactions, for both the `GET /transactions/cash` endpoint and the Cash transactions event webhook.</title>
+      <description>Operation models: TOL,BYOL </description>
+      <pubDate>Wed, 22 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11290-release</link>
+      <guid>https://docs.upvest.co/news#version-11290-release</guid>
+    </item>
+      <item>
+      <title>v1.127.0 adds the `UNSPECIFIED` enum value to the `rounding_indicator` field within corporate action movement details.</title>
+      <description>Operation models: TOL,BYOL,OMNIBUS </description>
+      <pubDate>Fri, 17 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11270-release</link>
+      <guid>https://docs.upvest.co/news#version-11270-release</guid>
+    </item>
+      <item>
+      <title>v1.126.0 introduces the CONCAT identifier standard for user identifiers.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Wed, 15 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11260-release</link>
+      <guid>https://docs.upvest.co/news#version-11260-release</guid>
+    </item>
+      <item>
+      <title>v1.125.0 adds `gender` and `social_security_number` fields to all user endpoints and the Users events webhook.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Mon, 13 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11250-release</link>
+      <guid>https://docs.upvest.co/news#version-11250-release</guid>
+    </item>
+      <item>
+      <title>v1.124.0 adds the `cancellation_reason` field to both the Withdrawals and the Direct Debit endpoints and webhooks.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Fri, 10 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11240-release</link>
+      <guid>https://docs.upvest.co/news#version-11240-release</guid>
+    </item>
+      <item>
+      <title>v1.123.0 adds support for Value Added Tax (VAT) as part of the components in a fee collection's `calculation_breakdown`.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Thu, 09 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11230-release</link>
+      <guid>https://docs.upvest.co/news#version-11230-release</guid>
+    </item>
+      <item>
+      <title>v1.121.0 adds support for Value Added Tax (VAT) when creating a fee collection.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Wed, 08 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11210-release</link>
+      <guid>https://docs.upvest.co/news#version-11210-release</guid>
+    </item>
+      <item>
+      <title>v1.120.0 adds `actual_payment_rate` and `nominal_coupon_rate` to the Corporate Action webhooks.</title>
+      <description>Operation models: TOL,BYOL,OMNIBUS</description>
+      <pubDate>Wed, 08 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11200-release</link>
+      <guid>https://docs.upvest.co/news#version-11200-release</guid>
+    </item>
+      <item>
+      <title>v1.119.0 expands the sort query parameter for the `GET /savings_plans/executions` endpoint.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Wed, 08 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11190-release</link>
+      <guid>https://docs.upvest.co/news#version-11190-release</guid>
+    </item>
+      <item>
+      <title>v1.118.0 renames the sole_proprietorship business type to sole_trader across the business account endpoints.</title>
+      <description>Operation models: TOL,BYOL</description>
+      <pubDate>Thu, 02 Jul 2026 11:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-11180-release</link>
+      <guid>https://docs.upvest.co/news#version-11180-release</guid>
+    </item>
       <item>
       <title>v1.117.0 adds `cancellation_reason` and `cancellation_details` to savings plan execution responses.</title>
       <description>Operation models: TOL,BYOL</description>
