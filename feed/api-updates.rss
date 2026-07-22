@@ -9,8 +9,8 @@
       <title>v1.129.0 adds the `corporate_action_reference` and `buyer_protection_deadline` fields to the Corporate action events webhook.</title>
       <description>Operation models: TOL,BYOL </description>
       <pubDate>Wed, 22 Jul 2026 11:00:00 +0000</pubDate>
-      <link>https://docs.upvest.co/news#version-11280-release</link>
-      <guid>https://docs.upvest.co/news#version-11280-release</guid>
+      <link>https://docs.upvest.co/news#version-11290-release</link>
+      <guid>https://docs.upvest.co/news#version-11290-release</guid>
     </item>
       <item>
       <title>v1.128.0 adds `CASH_BALANCE_TRANSFER` as a new value to the `type` enum within the `references` array of cash transactions, for both the `GET /transactions/cash` endpoint and the Cash transactions event webhook.</title>
