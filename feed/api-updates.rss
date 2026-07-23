@@ -9,6 +9,13 @@
         <title>v1.131.0 adds `list_history` and `type` to `GET /users/{user_id}/checks`</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
         <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11310-release</link>
+        <guid>https://docs.upvest.co/news#version-11310-release</guid>
+      </item>
+      <item>
+        <title>v1.130.0 adds `DELETE /roles/{role_id}` endpoint for deactivating roles</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11300-release</link>
         <guid>https://docs.upvest.co/news#version-11300-release</guid>
       </item>
