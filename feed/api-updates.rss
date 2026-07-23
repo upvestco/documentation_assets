@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 22 Jul 2026 11:00:00 +0000</pubDate>
+    <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.130.0 adds `DELETE /roles/{role_id}` endpoint for deactivating roles</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11300-release</link>
+        <guid>https://docs.upvest.co/news#version-11300-release</guid>
+      </item>
       <item>
       <title>v1.129.0 adds the `corporate_action_reference` and `buyer_protection_deadline` fields to the Corporate action events webhook.</title>
       <description>Operation models: TOL,BYOL</description>
