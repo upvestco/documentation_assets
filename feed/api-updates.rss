@@ -6,7 +6,7 @@
     <description>Updates of the API release notes</description>
     <pubDate>Fri, 24 Jul 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.131.0 adds `ACCOUNT_GROUP.UPDATED` to `eventType` enum</title>
+        <title>v1.131.0 adds the `ACCOUNT_GROUP.UPDATED` type to the Account Group events webhook.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
         <pubDate>Fri, 24 Jul 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11310-release</link>
