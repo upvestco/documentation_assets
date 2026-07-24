@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
+    <pubDate>Fri, 24 Jul 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.131.0 adds the `ACCOUNT_GROUP.UPDATED` type to the Account Group events webhook.</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Fri, 24 Jul 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11310-release</link>
+        <guid>https://docs.upvest.co/news#version-11310-release</guid>
+      </item>
       <item>
         <title>v1.130.0 adds `DELETE /roles/{role_id}` endpoint for deactivating roles</title>
         <description>Operation models: TOL,BYOL</description>
