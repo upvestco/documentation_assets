@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Tue, 11 Aug 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.135.0 adds the `SAVINGS_PLAN_EXECUTION.DATA_CHANGED` type to the Savings Plan Executions events webhook</title>
-        <description>Operation models:</description>
+        <title>v1.135.0 adds the `SAVINGS_PLAN_EXECUTION.DATA_CHANGED` type to the Savings Plan Executions events webhook.</title>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Tue, 11 Aug 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11350-release</link>
         <guid>https://docs.upvest.co/news#version-11350-release</guid>
