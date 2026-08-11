@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 07 Aug 2026 11:00:00 +0000</pubDate>
+    <pubDate>Tue, 11 Aug 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.135.0 adds the `SAVINGS_PLAN_EXECUTION.DATA_CHANGED` type to the Savings Plan Executions events webhook.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Tue, 11 Aug 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11350-release</link>
+        <guid>https://docs.upvest.co/news#version-11350-release</guid>
+      </item>
       <item>
         <title>v1.134.0 updates the `legal_entity_identifier` field to enforce the 20-character alphanumeric for Business accounts.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
