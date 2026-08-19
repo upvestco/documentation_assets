@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Wed, 19 Aug 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.136.0 adds a `tags` array to the User API</title>
-        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <title>v1.136.0 adds a `tags` field to the `/users` endpoints and webhooks and supports the `CLIENT_EMPLOYEE` tag.</title>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Wed, 19 Aug 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11360-release</link>
         <guid>https://docs.upvest.co/news#version-11360-release</guid>
