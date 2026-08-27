@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Thu, 27 Aug 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.138.0 enables the User Self-Assessment check and renames occupation statuses</title>
-        <description>Operation models:</description>
+        <title>v1.138.0 enables the User Self-Assessment check and updates the list of occupation statuses.</title>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Thu, 27 Aug 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11380-release</link>
         <guid>https://docs.upvest.co/news#version-11380-release</guid>
