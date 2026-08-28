@@ -6,6 +6,13 @@
     <description>Updates of the API release notes</description>
     <pubDate>Fri, 28 Aug 2026 11:00:00 +0000</pubDate>
       <item>
+        <title>v1.140.0 adds the `name_change` field to the Corporate Action event webhook</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Fri, 28 Aug 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11400-release</link>
+        <guid>https://docs.upvest.co/news#version-11400-release</guid>
+      </item>
+      <item>
         <title>v1.139.0 adds the `decease_date` field to the `/users` endpoints and webhook events.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Fri, 28 Aug 2026 11:00:00 +0000</pubDate>
