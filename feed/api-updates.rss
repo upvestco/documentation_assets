@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 28 Aug 2026 11:00:00 +0000</pubDate>
+    <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.143.0 adds new external direct debit types for cash transactions</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11430-release</link>
+        <guid>https://docs.upvest.co/news#version-11430-release</guid>
+      </item>
       <item>
         <title>v1.140.0 adds the `name_change` field to the Corporate Action event webhook.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
