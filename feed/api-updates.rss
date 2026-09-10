@@ -4,7 +4,35 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 28 Aug 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.144.0 removes `registration_number` and `district_court` from required business properties and fully supports `AKTIENGESELLSCHAFT` legal designation.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11440-release</link>
+        <guid>https://docs.upvest.co/news#version-11440-release</guid>
+      </item>
+      <item>
+        <title>v1.143.0 adds `EXTERNAL_DIRECT_DEBIT` to the available types for cash transaction references, and EXTERNAL_SEPA_DIRECT_DEBIT and EXTERNAL_SEPA_DIRECT_DEBIT_CHARGE_BACK to the available cash transaction types.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11430-release</link>
+        <guid>https://docs.upvest.co/news#version-11430-release</guid>
+      </item>
+      <item>
+        <title>v1.142.0 adds the US_WITHHOLDING_TAX_STATUS user check type to the Users API.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11420-release</link>
+        <guid>https://docs.upvest.co/news#version-11420-release</guid>
+      </item>
+      <item>
+        <title>v1.141.0  adds an optional fx field to the Cash transactions endpoints and related webhooks.</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11410-release</link>
+        <guid>https://docs.upvest.co/news#version-11410-release</guid>
+      </item>
       <item>
         <title>v1.140.0 adds the `name_change` field to the Corporate Action event webhook.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
