@@ -6,6 +6,13 @@
     <description>Updates of the API release notes</description>
     <pubDate>Wed, 16 Sep 2026 11:00:00 +0000</pubDate>
       <item>
+        <title>v1.146.0 adds the `SOLE_CUSTODY_PROOF` document type to the User Guardian check.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Wed, 16 Sep 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11460-release</link>
+        <guid>https://docs.upvest.co/news#version-11460-release</guid>
+      </item>
+      <item>
         <title>v1.145.0 adds the `CIVIL_PARTNERSHIP` type to support joint tax exemptions and updates the tax exemption endpoints endpoints to return the complete tax exemption details in their responses.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Wed, 16 Sep 2026 11:00:00 +0000</pubDate>
