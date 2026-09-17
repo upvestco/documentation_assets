@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Thu, 17 Sep 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.147.0 adds the `FINANCIAL_SERVICES_OTHERS_AND_INSURANCE` option to the Business Industry list</title>
-        <description>Operation models:</description>
+        <title>v1.147.0 adds the `FINANCIAL_SERVICES_OTHERS_AND_INSURANCE` option to the Business Industry list.</title>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Thu, 17 Sep 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11470-release</link>
         <guid>https://docs.upvest.co/news#version-11470-release</guid>
