@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 17 Sep 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.148.0 adds `GROSS_AMOUNT` and `COLLECTED_BY_UPVEST` to Transaction Fee Models, deprecates the `ORDER` enum.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11480-release</link>
+        <guid>https://docs.upvest.co/news#version-11480-release</guid>
+      </item>
       <item>
         <title>v1.147.0 adds the `FINANCIAL_SERVICES_OTHERS_AND_INSURANCE` option to the Business Industry list.</title>
         <description>Operation models: TOL,BYOL</description>
