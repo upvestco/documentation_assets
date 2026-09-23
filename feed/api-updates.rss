@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.148.0 adds `GROSS_AMOUNT` and `COLLECTED_BY_UPVEST` to Transaction Fee Models, deprecates `ORDER`</title>
-        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <title>v1.148.0 adds `GROSS_AMOUNT` and `COLLECTED_BY_UPVEST` to Transaction Fee Models, deprecates the `ORDER` enum.</title>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11480-release</link>
         <guid>https://docs.upvest.co/news#version-11480-release</guid>
