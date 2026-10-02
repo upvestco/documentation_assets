@@ -6,7 +6,7 @@
     <description>Updates of the API release notes</description>
     <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.150.0 adds the `AUTO_INVESTMENT` type to portfolio order responses and the `PORTFOLIO_ORDER` webhook</title>
+        <title>v1.150.0 adds the `AUTO_INVESTMENT` type to portfolio order responses and the `PORTFOLIO_ORDER` webhook.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11500-release</link>
