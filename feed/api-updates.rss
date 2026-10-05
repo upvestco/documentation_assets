@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
+    <pubDate>Mon, 05 Oct 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.151.0 adds new endpoints `POST /transaction_fees/configurations` and `PATCH /transaction_fees/configurations/{transaction_fee_account_group_configuration_id}`.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Mon, 05 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11510-release</link>
+        <guid>https://docs.upvest.co/news#version-11510-release</guid>
+      </item>
       <item>
         <title>v1.150.0 adds the `AUTO_INVESTMENT` type to portfolio order responses and the `PORTFOLIO_ORDER` webhook.</title>
         <description>Operation models: TOL,BYOL</description>
