@@ -6,7 +6,7 @@
     <description>Updates of the API release notes</description>
     <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.153.0 enables the `CHARGED_BY_CLIENT_NET` method for transaction fees</title>
+        <title>v1.153.0 adds the `CHARGED_BY_CLIENT_NET` enum to support transaction fees.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11530-release</link>
