@@ -7,10 +7,17 @@
     <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
       <item>
         <title>v1.154.0 adds the `DELETE /transaction_fees/configurations/{account_group_id}/{id}` endpoint</title>
-        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11540-release</link>
         <guid>https://docs.upvest.co/news#version-11540-release</guid>
+      </item>
+      <item>
+        <title>v1.153.0 adds the `CHARGED_BY_CLIENT_NET` enum to support transaction fees.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11530-release</link>
+        <guid>https://docs.upvest.co/news#version-11530-release</guid>
       </item>
       <item>
         <title>v1.152.0 adds the `GET /transaction_fees/configurations/{id}` endpoint.</title>
