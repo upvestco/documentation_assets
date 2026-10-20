@@ -6,7 +6,7 @@
     <description>Updates of the API release notes</description>
     <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.157.0 enables direct debit funding for Savings Plans</title>
+        <title>v1.157.0 enables direct debit funding to help automatically fund Savings Plans.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11570-release</link>
