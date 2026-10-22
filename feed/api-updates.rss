@@ -4,7 +4,21 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+    <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.159.0 adds a `details` array to the `cumulative_cost_impact_on_return` fields in the Order Ex-Ante Cost reports.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11590-release</link>
+        <guid>https://docs.upvest.co/news#version-11590-release</guid>
+      </item>
+      <item>
+        <title>v1.158.0 makes the user_id and settlement_reference fields optional for securities transfers endpoints and webhook events.</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11580-release</link>
+        <guid>https://docs.upvest.co/news#version-11580-release</guid>
+      </item>
       <item>
         <title>v1.157.0 enables direct debit funding to help automatically fund Savings Plans.</title>
         <description>Operation models: TOL,BYOL</description>
