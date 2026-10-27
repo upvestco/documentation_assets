@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.160.0 adds the `PENSION_DE_CHILD` type to the `type` field of the Account Group API</title>
-        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <title>v1.160.0 adds the `PENSION_DE_CHILD` type to the `type` field of the Account Group API.</title>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11600-release</link>
         <guid>https://docs.upvest.co/news#version-11600-release</guid>
