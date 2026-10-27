@@ -6,11 +6,32 @@
     <description>Updates of the API release notes</description>
     <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
       <item>
+        <title>v1.161.0 adds the `middle_name` field to user creation, update, and retrieval.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11610-release</link>
+        <guid>https://docs.upvest.co/news#version-11610-release</guid>
+       </item>
+       <item>
         <title>v1.160.0 adds the `PENSION_DE_CHILD` type to the `type` field of the Account Group API.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11600-release</link>
         <guid>https://docs.upvest.co/news#version-11600-release</guid>
+      </item>
+       <item>
+        <title>v1.159.0 a cost breakdown to the return_impact section of ex-ante cost reports.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11590-release</link>
+        <guid>https://docs.upvest.co/news#version-11590-release</guid>
+      </item>
+       <item>
+        <title>v1.158.0 makes the user_id and settlement_reference fields optional for securities transfers endpoints.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11580-release</link>
+        <guid>https://docs.upvest.co/news#version-11580-release</guid>
       </item>
       <item>
         <title>v1.157.0 enables direct debit funding to help automatically fund Savings Plans.</title>
