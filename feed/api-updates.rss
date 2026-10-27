@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.160.0 adds the `PENSION_DE_CHILD` type to the `type` field of the Account Group API</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11600-release</link>
+        <guid>https://docs.upvest.co/news#version-11600-release</guid>
+      </item>
       <item>
         <title>v1.157.0 enables direct debit funding to help automatically fund Savings Plans.</title>
         <description>Operation models: TOL,BYOL</description>
