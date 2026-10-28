@@ -6,8 +6,8 @@
     <description>Updates of the API release notes</description>
     <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.164.0 updates the `POST /cash_balance_transfers` endpoint to support `JOINT` account groups</title>
-        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <title>v1.164.0 Version 1.164.0 supports cash balance transfers between joint accounts when both the source and target account groups have exactly the same owners.</title>
+        <description>Operation models: TOL,BYOL</description>
         <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11640-release</link>
         <guid>https://docs.upvest.co/news#version-11640-release</guid>
