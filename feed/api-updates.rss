@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.164.0 updates the `POST /cash_balance_transfers` endpoint to support `JOINT` account groups</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11640-release</link>
+        <guid>https://docs.upvest.co/news#version-11640-release</guid>
+      </item>
       <item>
         <title>v1.163.0 adds the `instrument` field to Order, Income Distribution, Corporate Action, and Securities Transfer reports.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
