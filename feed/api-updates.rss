@@ -6,7 +6,7 @@
     <description>Updates of the API release notes</description>
     <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.167.0 adds the `terms_and_conditions` and `data_privacy_and_sharing_agreement` fields to the `PATCH /users/{user_id}` endpoint for TOL users</title>
+        <title>v1.167.0 adds the `terms_and_conditions` and `data_privacy_and_sharing_agreement` fields to the `PATCH /users/{user_id}` endpoint for TOL users.</title>
         <description>Operation models: TOL</description>
         <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11670-release</link>
