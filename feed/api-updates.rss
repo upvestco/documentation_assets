@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.169.0 adds the `isa:admin` scope for all endpoints related to ISA transfers.</title>
+        <description>Operation models: TOL,BYOL</description>
+        <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11690-release</link>
+        <guid>https://docs.upvest.co/news#version-11690-release</guid>
+      </item>
       <item>
         <title>v1.168.0 adds `object.scope` to the `TREASURY_REPORT.CREATED` event of the Treasury Reports webhook.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
