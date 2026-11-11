@@ -6,6 +6,13 @@
     <description>Updates of the API release notes</description>
     <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
       <item>
+        <title>v1.172.0 adds an optional `idempotency-key` header to the `POST /reports` endpoint.</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11720-release</link>
+        <guid>https://docs.upvest.co/news#version-11720-release</guid>
+      </item>
+      <item>
         <title>v1.171.0 updates the currency field to include USD in the responses for price data endpoints.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
