@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+    <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.171.0 updates the `currency` field in the Latest Prices and End-of-Day Prices API responses</title>
+        <description>Operation models: </description>
+        <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11710-release</link>
+        <guid>https://docs.upvest.co/news#version-11710-release</guid>
+      </item>
       <item>
         <title>v1.170.0 removes the `isa_transfers:admin` scope. For ISA transfers, use the `isa:admin`scope instead.</title>
         <description>Operation models:</description>
