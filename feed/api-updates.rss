@@ -6,6 +6,13 @@
     <description>Updates of the API release notes</description>
     <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
       <item>
+        <title>v1.174.0 adds the `SECURITIES_TRANSFER` type to the `/transactions` endpoints and webhook events.</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11740-release</link>
+        <guid>https://docs.upvest.co/news#version-11740-release</guid>
+      </item>
+      <item>
         <title>v1.173.0 adds the `account_group_ids` field to the `object.scope` of the `TREASURY_REPORT.CREATED` webhook.</title>
         <description>Operation models: OMNIBUS</description>
         <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
