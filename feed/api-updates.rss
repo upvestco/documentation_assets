@@ -6,7 +6,7 @@
     <description>Updates of the API release notes</description>
     <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.175.0 adds `less_of_third_party_payments` to the `product_cost` object in Ex-Ante Cost Reports</title>
+        <title>v1.175.0 adds `less_of_third_party_payments` to the `product_cost` object in Ex-Ante Cost Reports.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
         <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11750-release</link>
