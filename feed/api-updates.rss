@@ -4,7 +4,14 @@
     <title>Upvest API updates</title>
     <link>https://docs.upvest.co/news</link>
     <description>Updates of the API release notes</description>
-    <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+    <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
+      <item>
+        <title>v1.175.0 adds `less_of_third_party_payments` to the `product_cost` object in Ex-Ante Cost Reports.</title>
+        <description>Operation models: TOL,BYOL,OMNIBUS</description>
+        <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
+        <link>https://docs.upvest.co/news#version-11750-release</link>
+        <guid>https://docs.upvest.co/news#version-11750-release</guid>
+      </item>
       <item>
         <title>v1.174.0 adds the `SECURITIES_TRANSFER` type to the `/transactions` endpoints and webhook events.</title>
         <description>Operation models: TOL,BYOL,OMNIBUS</description>
