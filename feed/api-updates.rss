@@ -9,8 +9,8 @@
         <title>v1.176.0 enables you to cancel `ISSUED` or `CONFIRMED` virtual cash increases.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
-        <link>https://docs.upvest.co/news#version-11750-release</link>
-        <guid>https://docs.upvest.co/news#version-11750-release</guid>
+        <link>https://docs.upvest.co/news#version-11760-release</link>
+        <guid>https://docs.upvest.co/news#version-11760-release</guid>
       </item>
       <item>
         <title>v1.175.0 adds `less_of_third_party_payments` to the `product_cost` object in Ex-Ante Cost Reports.</title>
