@@ -6,7 +6,7 @@
     <description>Updates of the API release notes</description>
     <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
       <item>
-        <title>v1.175.0 enables you to cancel `ISSUED` or `CONFIRMED` virtual cash increases.</title>
+        <title>v1.176.0 enables you to cancel `ISSUED` or `CONFIRMED` virtual cash increases.</title>
         <description>Operation models: TOL,BYOL</description>
         <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
         <link>https://docs.upvest.co/news#version-11750-release</link>
